@@ -1,1 +1,3 @@
-"Perfection is the enemy of good"
+"Perfection is the enemy of good" 
+
+Here's an idea: add a feature to highlight on TOP
